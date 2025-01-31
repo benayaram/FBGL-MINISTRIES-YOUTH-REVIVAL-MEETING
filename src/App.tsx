@@ -153,7 +153,7 @@ function App() {
       >
         <div className="absolute inset-0 z-0">
           <img
-            src="https://images.unsplash.com/photo-1438232992991-995b7058bbb3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80"
+            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyXtYiCJt_8oH29ZxLpfDtadmbDNsop0lfXWocZoS1AP5eYEuw_1bQI6AYepRLh_3WrxW3ySKFKtneeLF0eRA_f-PSqDc_DpzUnmXjVXgYu9-PiKXEoGQv_70DtkC0L3mWKDAFpOjWOKPmjLwoiuUmr32kB_KZlMaFT6Ksq3tNBrRAeflWmWr68O5NCtA/s1080/WhatsApp%20Image%202025-01-31%20at%2010.26.28_6a40cf3a.jpg"
             alt="Church Background"
             className="w-full h-full object-cover"
             style={{
